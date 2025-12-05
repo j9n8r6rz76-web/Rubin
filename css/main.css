@@ -40,7 +40,7 @@
 #header .gnb li a {
     display: block;
     line-height: 42px;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     color: #5c6266;
 }
@@ -451,4 +451,5 @@
         display: none;
     }
 }
+
 
