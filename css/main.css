@@ -212,13 +212,13 @@
 .main-wrap .background .text .tit {
     margin-bottom: 25px;
     line-height: 1.4;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
     color: #5c6266;
 }
 .main-wrap .background .text .txt {
     line-height: 1.6;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
     color: #5c6266;
 }
@@ -451,3 +451,4 @@
         display: none;
     }
 }
+
